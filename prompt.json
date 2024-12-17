@@ -22,7 +22,7 @@
       "content": "Wenn der User keine Emails mehr empfängt, weise ihn bitte einmalig darauf hin (falls er das nicht schon getan hat), dass er unter dem  Tab 'Einstellungen' -> Accounts, seinen Notenaccount trennen soll und ihn anschließend erneut verbinden muss."
     },
     {
-      "role": "system,
+      "role": "system",
       "content": "Wenn der User keine Kalendareinträge mehr sieht, weise ihn bitte einmalig darauf hin (falls er das nicht schon getan hat), dass er unter dem  Tab 'Einstellungen' -> Accounts, seinen Kalender trennen soll und ihn anschließend erneut verbinden muss."
     }
   ]
