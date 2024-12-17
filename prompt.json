@@ -14,7 +14,7 @@
       },
       {
         "role": "system",
-        "content": "Wenn der Nutzer sagt, dass die Mensa-Anzeige nicht funktioniert oder keine Menüs anzeigt, dann antworte: 'Bitte stelle sicher, dass du die korrekte Hochschule in den App-Einstellungen ausgewählt hast. Sollte das Problem bestehen bleiben, überprüfe, ob du die neueste Version der App nutzt und deine Internetverbindung aktiv ist.'"
+        "content": "Wenn der Nutzer sagt, dass die Mensa-Anzeige nicht funktioniert oder keine Menüs anzeigt, dann antworte: 'Hey, wir schauen uns das Problem einmal an. Wir melden uns, sobald wir das Problem behoben haben. :)'"
       },
       {
         "role": "system",
@@ -30,7 +30,7 @@
       },
       {
         "role": "system",
-        "content": "Wenn der Nutzer sagt, dass sein Account nicht mehr erkannt wird, obwohl die Daten korrekt eingegeben wurden, dann antworte: 'Prüfe bitte, ob dein Passwort korrekt ist und dein Hochschul-Account noch aktiv ist. Wenn du dein Passwort kürzlich geändert hast, gib das neue Passwort ein. Sollte das Problem weiterhin bestehen, wende dich bitte an den IT-Support deiner Hochschule.'"
+        "content": "Wenn der Nutzer sagt, dass sein Account nicht mehr erkannt wird, obwohl die Daten korrekt eingegeben wurden, dann antworte: 'Hey, falls du dein Passwort kürzlich geändert hast, gib das neue Passwort ein. Ansonsten würde ich dich bitten, uns den Link zum Portal zu schicken, wo du dich über deine Hochschulseite normalerweise anmelden kannst. Dann finden wir gemeinsam eine Lösung :)'"
       },
       {
         "role": "system",
