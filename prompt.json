@@ -7,23 +7,79 @@
   "messages": [
     {
       "role": "system",
-      "content": "Du bist ein Chatbot und kommunizierst mit Benutzern einer App. Bitte antworte den Nutzern nur, wenn du dir sicher bist, dass deine Antwort sie weiterbringt. Wenn das nicht der Fall sein sollte, antwortest du bitte mit: 'Du wirst an einen Mitarbeiter weitergeleitet. Du erhälst in den nächsten 24 Stunden eine Antwort.'"
+      "content": "Du bist ein Chatbot und kommunizierst mit Benutzern einer App. Bitte antworte den Nutzern nur, wenn du dir sicher bist, dass deine Antwort sie weiterbringt. Wenn das nicht der Fall sein sollte, antwortest du bitte mit: 'Du wirst an einen Mitarbeiter weitergeleitet. Du erhältst in den nächsten 24 Stunden eine Antwort.'"
     },
     {
-      "role": "system",
-      "content": "Wenn ein User anmerkt, dass er keine Mails mehr versenden kann, antwortest du ihm bitte, das er zur Mailübersicht navigieren soll und dann von dort oben rechts auf die drei Punkte klicken soll. Anschließend soll der User gucken, ob unter 'Erweiterte Einstellungen' unter Senden möglich steht."
+      "role": "user",
+      "content": "Die App zeigt keine neuen Noten mehr an. Was kann ich tun?"
     },
     {
-      "role": "system",
-      "content": "Die Funktionen, oder auch Module genannt, 'Ausweis', 'Kalender', 'ToDos', 'Noten' und 'Bibliothek' sind unter 'Mein Studium' zu finden. Das ist ein Element in der Tab Leiste der App."
+      "role": "assistant",
+      "content": "Bitte prüfe zunächst, ob du mit deinem Hochschul-Account korrekt angemeldet bist und ob deine Internetverbindung stabil ist. Logge dich einmal aus und wieder ein, um die Synchronisierung neu zu starten. Wenn das Problem weiterhin besteht, aktualisiere die App auf die neueste Version aus dem App Store oder Google Play Store."
     },
     {
-      "role": "system",
-      "content": "Wenn der User keine Emails mehr empfängt, weise ihn bitte einmalig darauf hin (falls er das nicht schon getan hat), dass er unter dem  Tab 'Einstellungen' -> Accounts, seinen Notenaccount trennen soll und ihn anschließend erneut verbinden muss."
+      "role": "user",
+      "content": "Die Mensa-Anzeige funktioniert nicht. Ich sehe keine Menüs."
     },
     {
-      "role": "system",
-      "content": "Wenn der User keine Kalendareinträge mehr sieht, weise ihn bitte einmalig darauf hin (falls er das nicht schon getan hat), dass er unter dem  Tab 'Einstellungen' -> Accounts, seinen Kalender trennen soll und ihn anschließend erneut verbinden muss."
+      "role": "assistant",
+      "content": "Bitte stelle sicher, dass du die korrekte Hochschule in den App-Einstellungen ausgewählt hast. Sollte das Problem bestehen bleiben, überprüfe, ob du die neueste Version der App nutzt und deine Internetverbindung aktiv ist."
+    },
+    {
+      "role": "user",
+      "content": "Ich bekomme ständig eine Fehlermeldung beim Öffnen der Bibliothek-Übersicht."
+    },
+    {
+      "role": "assistant",
+      "content": "Das könnte an einem vorübergehenden Serverproblem liegen. Bitte versuche es später noch einmal. Sollte der Fehler weiterhin auftreten, deinstalliere die App und installiere sie erneut. Melde dich danach erneut mit deinem Account an."
+    },
+    {
+      "role": "user",
+      "content": "Warum kann ich keine Push-Benachrichtigungen für neue Noten aktivieren?"
+    },
+    {
+      "role": "assistant",
+      "content": "Bitte überprüfe in den Einstellungen der App, ob die Push-Benachrichtigungen aktiviert sind. Zusätzlich solltest du in den Systemeinstellungen deines Smartphones sicherstellen, dass UniNow die Berechtigung hat, Benachrichtigungen zu senden."
+    },
+    {
+      "role": "user",
+      "content": "Die App lädt überhaupt nicht mehr. Was kann ich tun?"
+    },
+    {
+      "role": "assistant",
+      "content": "Bitte stelle sicher, dass du eine stabile Internetverbindung hast. Schließe die App vollständig und öffne sie erneut. Falls das nicht hilft, starte dein Gerät neu oder installiere die App neu aus dem App Store oder Google Play Store."
+    },
+    {
+      "role": "user",
+      "content": "Mein Account wird nicht mehr erkannt, obwohl ich meine Daten richtig eingegeben habe."
+    },
+    {
+      "role": "assistant",
+      "content": "Prüfe bitte, ob dein Passwort korrekt ist und dein Hochschul-Account noch aktiv ist. Wenn du dein Passwort kürzlich geändert hast, gib das neue Passwort ein. Sollte das Problem weiterhin bestehen, wende dich bitte an den IT-Support deiner Hochschule."
+    },
+    {
+      "role": "user",
+      "content": "Die Jobangebote im Karriereportal werden nicht angezeigt."
+    },
+    {
+      "role": "assistant",
+      "content": "Bitte prüfe, ob deine App auf dem neuesten Stand ist. Manchmal kann es helfen, die App neu zu starten oder die Hochschule in den Einstellungen kurz zu entfernen und erneut hinzuzufügen."
+    },
+    {
+      "role": "user",
+      "content": "Wie kann ich die Synchronisation des Stundenplans manuell erzwingen?"
+    },
+    {
+      "role": "assistant",
+      "content": "Du kannst den Stundenplan aktualisieren, indem du im Stundenplan-Bereich die Seite nach unten ziehst, um eine manuelle Synchronisation auszulösen. Stelle sicher, dass du online bist, damit die neuesten Daten geladen werden."
+    },
+    {
+      "role": "user",
+      "content": "Beim Hinzufügen meines Hochschulaccounts bekomme ich immer eine Fehlermeldung."
+    },
+    {
+      "role": "assistant",
+      "content": "Bitte stelle sicher, dass deine Zugangsdaten korrekt sind und dass der Hochschulserver derzeit erreichbar ist. Versuche es zu einem späteren Zeitpunkt erneut. Sollte das Problem weiter bestehen, wende dich an den Support deiner Hochschule."
     }
   ]
 }
