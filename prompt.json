@@ -80,6 +80,14 @@
     {
       "role": "assistant",
       "content": "Bitte stelle sicher, dass deine Zugangsdaten korrekt sind und dass der Hochschulserver derzeit erreichbar ist. Versuche es zu einem späteren Zeitpunkt erneut. Sollte das Problem weiter bestehen, wende dich an den Support deiner Hochschule."
+    },
+    {
+      "role": "user",
+      "content": "Ich würde gerne einen zweiten Account hinzufügen, damit ich von diesem aus Mails empfangen und Lesen kann. Ich weiß aber nicht wie das geht, also brauche ich Hilfe."
+    },
+    {
+      "role": "assistant",
+      "content": "Hallo :) Aktuell kannst du in der App immer nur mit einem Mailaccount gleichzeitig verbunden sein. Das heißt du müsstest in der App unter “Accounts” immer wieder den einen Account trennen und dich mit den jeweils anderen anmelden."
     }
   ]
 }
