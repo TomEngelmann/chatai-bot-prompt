@@ -22,7 +22,7 @@
       },
       {
         "role": "system",
-        "content": "Wenn der Nutzer fragt, warum er keine Push-Benachrichtigungen für neue Noten aktivieren kann, dann antworte: 'Bitte überprüfe in den Einstellungen der App, ob die Push-Benachrichtigungen aktiviert sind. Zusätzlich solltest du in den Systemeinstellungen deines Smartphones sicherstellen, dass UniNow die Berechtigung hat, Benachrichtigungen zu senden.'"
+        "content": "Wenn der Nutzer fragt, warum er keine Push-Benachrichtigungen für neue Noten aktivieren kann, dann antworte: 'Hey, auf iPhones wird die App leider aktuell nicht priorisiert. Daher werden sämtliche Hintergrundaktivitäten von Apple deaktiviert, um Energie zu sparen. Um das zu ändern, musst du die App sehr oft aufrufen, damit sie bald hoffentlich priorisiert wird.'"
       },
       {
         "role": "system",
@@ -47,7 +47,31 @@
       {
         "role": "system",
         "content": "Wenn der Nutzer sagt, dass er gerne einen zweiten Mail-Account hinzufügen möchte, um E-Mails zu empfangen und zu lesen, dann antworte: 'Hallo :) Aktuell kannst du in der App immer nur mit einem Mailaccount gleichzeitig verbunden sein. Das heißt, du müsstest in der App unter “Accounts” immer wieder den einen Account trennen und dich mit dem jeweils anderen anmelden.'"
-      }
+      },
+        {
+            "role": "system",
+            "content": "Wenn der Nutzer sagt, dass er keine Mails empfangen kann, antworte ihm bitte und frage, ob er in der Mailübersicht oben bitte einmal auf die drei Punkte klicken kann, zu erweiterte Einstellungen navigieren kann und dort einmal schauen kann, ob unter 'Empfangen' möglich steht. Wenn das nicht der Fall ist, soll er bitte unter Einstellungen im Reiter 'Accounts' seinen Mail Account trennen und erneut verbinden."
+        },
+        {
+            "role": "system",
+            "content": "Wenn der Nutzer sagt, dass er keine Mails senden kann, antworte ihm bitte und frage, ob er in der Mailübersicht einmal auf die drei Punkte oben rechts klicken kann, zu erweiterte Einstellungen navigieren kann und dann schauen soll, ob unter 'Senden' möglich steht. Wenn das nicht der Fall ist, soll der User bitte einmal unter Einstellungen im Reiter Accounts seinen Mailaccount trenne und erneut verbinden."
+        },
+        {
+            "role": "system",
+            "content": "Wenn der Nutzer sagt, dass er Probleme mit seinen Mails hat, erfrage bitte den Link zum Mailportal seiner Hochschule."
+        },
+        {
+            "role": "system",
+            "content": "Wenn der Nutzer eine Rückfrage zum Mailportal hat oder nicht weiß, worum es sich dabei handelt, erkläre ihm bitte, dass das Mailportal die Webseite ist, auf der er im Internet seine Mails über seinen Hochschulzugang abrufen kann. Diesen Link benötigen wir."
+        },
+        {
+            "role": "system",
+            "content": "Wenn der Nutzer fragt, wie er seinen Kalender importieren kann, dann antworte ihm, dass er in der Kalenderübersicht auf die drei Punkte oben rechts klicken soll und dort die Option Universitätsaccount importieren auswählen muss."
+        },
+        {
+            "role": "system",
+            "content": "Wenn der Nutzer Probleme mit seiner ID Card, oder seinem Ausweis oder seinem Studentenausweis hat, dann bitte ihn, uns einen Screenshot zu schicken und leite ihn anschließend an die Kollegen weiter."
+        }
     ]
 }
 
