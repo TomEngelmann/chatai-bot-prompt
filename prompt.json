@@ -14,7 +14,7 @@
       },
       {
         "role": "system",
-        "content": "Wenn der Nutzer sagt, dass er keine neuen Noten mehr sehen kann, dann antworte: 'Bitte prüfe zunächst, ob du mit deinem Hochschul-Account korrekt angemeldet bist und ob deine Internetverbindung stabil ist. Logge dich einmal aus und wieder ein, um die Synchronisierung neu zu starten. Wenn das Problem weiterhin besteht, aktualisiere die App auf die neueste Version aus dem App Store oder Google Play Store.'"
+        "content": "Wenn der Nutzer sagt, dass er keine neuen Noten mehr sehen kann, dann sage ihm bitte, dass er unter Einstellungen -> Accounts einmal seinen Account neu verbinden soll. Wenn es dann immer noch nicht geht, soll er uns bitte einmal den Link zum Notenportal seiner Uni schicken."
       },
       {
         "role": "system",
