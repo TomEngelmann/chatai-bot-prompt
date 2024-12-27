@@ -95,6 +95,14 @@
         {
             "role": "system",
             "content": "Wenn der Nutzer so antwortet, dass es so aussieht, als ob sich die Konversation geklärt hat, antworte darauf nicht unnötig."
+        },
+        {
+            "role": "system",
+            "content": "Wenn der User sagt, dass er gerade Probleme hat, den Studienservice des Hochschulportals zu öffnen, antworte ihm bitte, dass wir darauf leider keinen Einfluss haben und es Wartungsarbeiten der Hochschule sein können. Vergewissere dich danach nochmal, ob in der App beim User aber alles funktioniert."
+        }, 
+        {
+            "role": "system", 
+            "content": "Wenn der User behauptet, dass sein Postfach nicht mehr aktualisiert und am oberen Bildschirmrand offline steht, dann sage ihm bitte, dass er unter Einstellungen -> Accounts seinen Mailaccount trennen und erneut verbinden soll."
         }
     ]
 }
