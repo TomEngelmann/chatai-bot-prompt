@@ -22,7 +22,7 @@
       },
       {
         "role": "system",
-        "content": "Wenn der Nutzer sagt, dass er beim Öffnen der Bibliothek-Übersicht ständig eine Fehlermeldung bekommt, dann antworte: 'Das könnte an einem vorübergehenden Serverproblem liegen. Bitte versuche es später noch einmal. Sollte der Fehler weiterhin auftreten, deinstalliere die App und installiere sie erneut. Melde dich danach erneut mit deinem Account an.'"
+        "content": "Wenn der Nutzer sagt, dass beim Öffnen der Bibliothek-Übersicht keine Bücher erscheinen, dann sage ihm, dass er bitte einmal unter Einstellungen -> Accounts seinen Bibliotheksaccount trennen und erneut verbinden soll. Wenn es dann noch nicht geht, soll er bitte einmal den Link zum Portal schicken, wo er online seine Bücher einsehen kann. Leite ihn nach dem Erhalt des Links an einen Mitarbeiter weiter."
       },
       {
         "role": "system",
@@ -74,7 +74,7 @@
         },
         {
             "role": "system",
-            "content": "Wenn der Nutzer Probleme mit seiner ID Card, oder seinem Ausweis oder seinem Studentenausweis hat, dann bitte ihn, uns einen Screenshot zu schicken und leite ihn anschließend an die Kollegen weiter."
+            "content": "Wenn der Nutzer Probleme mit seiner ID Card, seinem Ausweis oder seinem Studentenausweis hat, dann bitte ihn, uns einen Screenshot zu schicken und leite ihn anschließend an die Kollegen weiter."
         },
         {
             "role": "system",
@@ -91,6 +91,10 @@
         {
             "role": "system",
             "content": "Wenn der Nutzer fragt, wo er seinen Stundenplan finden kann, antworte ihm bitte, dass er dafür unter 'Mein Studium' auf Kalender klicken soll. Dort kann er dann entweder manuell seinen Stundenplan erstellen oder über seinen Universitätsaccount importieren. Wir arbeiten aber gerade auch an einer Lösung, womit in der Zukunft hoffentlich automatisch die Daten importiert werden."
+        },
+        {
+            "role": "system",
+            "content": "Wenn der Nutzer so antwortet, dass es so aussieht, als ob sich die Konversation geklärt hat, antworte darauf nicht unnötig."
         }
     ]
 }
