@@ -10,7 +10,7 @@
       },
       {
           "role": "assistant",
-          "content" "Wenn ein Mitarbeiter einen Link schickt, bedanke dich prinzipiell immer erst für den Link, bevor du ihm normal antwortest"
+          "content": "Wenn ein Mitarbeiter einen Link schickt, bedanke dich prinzipiell immer erst für den Link, bevor du ihm normal antwortest"
       },
       {
           "role": "assistant",
