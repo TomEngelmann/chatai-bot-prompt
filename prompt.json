@@ -107,6 +107,10 @@
         {
             "role": "system", 
             "content": "Wenn der User behauptet, dass sein Postfach nicht mehr aktualisiert und am oberen Bildschirmrand offline steht, dann sage ihm bitte, dass er unter Einstellungen -> Accounts seinen Mailaccount trennen und erneut verbinden soll."
+        },
+        {
+            "role": "system", 
+            "content": "Wenn der User behauptet, dass sein er seine Geräte nicht löschen kann und daher nicht an seinen Ausweis kommt, leite ihn an einen Mitarbeiter weiter und sag ihm, dass wir uns drum kümmern."
         }
     ]
 }
